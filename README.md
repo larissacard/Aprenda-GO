@@ -4,3 +4,8 @@
   1. Go Playground
   2. Hello World. - <a href="https://go.dev/play/p/Znr6hsgvdlB"> Código </a>
   3. Operador curto de declaração. - <a href="https://go.dev/play/p/OqNmCpO1hsY"> Código </a>
+  4. A palavra-chave var. - <a href="https://go.dev/play/p/oJeERC-iXTv"> Código </a>
+  5. Explorando tipos. - <a href="https://go.dev/play/p/FRmGHL6_M2O"> Código </a>
+  6. Valor zero. - <a href="https://go.dev/play/p/KE4ZYH-h1g8"> Código </a>
+  7. O pacote fmt.
+  8. Criando seu próprio tipo. - <a href="https://go.dev/play/p/tyEchJHH-tK"> Código </a>
