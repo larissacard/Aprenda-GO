@@ -1,6 +1,6 @@
 # Aprenda-GO
 
-## Cap. 1 - Variavéis, Valores & Tipos
+## Cap. 2 - Variavéis, Valores & Tipos
   1. Go Playground
   2. Hello World. - <a href="https://go.dev/play/p/Znr6hsgvdlB"> Código </a>
   3. Operador curto de declaração. - <a href="https://go.dev/play/p/OqNmCpO1hsY"> Código </a>
@@ -10,3 +10,7 @@
   7. O pacote fmt.
   8. Criando seu próprio tipo. - <a href="https://go.dev/play/p/tyEchJHH-tK"> Código </a>
   9. Coversão, não coerção. - <a href="https://go.dev/play/p/WhP-yWdijrn"> Código </a>
+
+## Cap. 3 - Exercícios
+  1. <a href="https://go.dev/play/p/G2ixw-R9tYd"> Resolução </a>
+  2. <a href="https://go.dev/play/p/rrWzvwfvlBR"> Resolução </a>
