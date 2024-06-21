@@ -9,3 +9,4 @@
   6. Valor zero. - <a href="https://go.dev/play/p/KE4ZYH-h1g8"> Código </a>
   7. O pacote fmt.
   8. Criando seu próprio tipo. - <a href="https://go.dev/play/p/tyEchJHH-tK"> Código </a>
+  9. Coversão, não coerção. - <a href="https://go.dev/play/p/WhP-yWdijrn"> Código </a>
