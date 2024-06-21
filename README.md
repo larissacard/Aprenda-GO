@@ -14,3 +14,4 @@
 ## Cap. 3 - Exercícios
   1. <a href="https://go.dev/play/p/G2ixw-R9tYd"> Resolução </a>
   2. <a href="https://go.dev/play/p/rrWzvwfvlBR"> Resolução </a>
+  3. <a href="https://go.dev/play/p/g7NkJREqpMe"> Resolução </a>
