@@ -17,3 +17,7 @@
   3. <a href="https://go.dev/play/p/g7NkJREqpMe"> Resolução </a>
   4. <a href="https://go.dev/play/p/1s54oLGJBKS"> Resolução </a>
   5. <a href="https://go.dev/play/p/kJXirSSaDRk"> Resolução </a>
+  6. Pontuação 29 /32
+
+## Cap. 4 - Fundamentos da Programção
+  1. Tipo booleano. <a href="https://go.dev/play/p/Gzj1_iemXpj"> Valor zero / Atribuindo um valor / Bool com resultado de operadores relacionais</a>
