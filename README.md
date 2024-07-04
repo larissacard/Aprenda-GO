@@ -21,3 +21,9 @@
 
 ## Cap. 4 - Fundamentos da Programção
   1. Tipo booleano. <a href="https://go.dev/play/p/Gzj1_iemXpj"> Valor zero / Atribuindo um valor / Bool com resultado de operadores relacionais</a>
+  2. Como os computadores funcionam.
+  3. Tipos numéricos.
+  4. Overflow. <a href="https://go.dev/play/p/t7Z4m127F2t"> Exemplo </a>
+  5. Tipo string. <a href="https://go.dev/play/p/FYK94g4iAJQ"> Exemplo </a>
+  6. Sistemas numéricos
+  
