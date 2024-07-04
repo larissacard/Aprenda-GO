@@ -30,11 +30,25 @@
   8. Iota. <a href="https://go.dev/play/p/uK1L-8_4Eat"> Exemplo </a>
   9. Deslocamento de bits. <a href="https://go.dev/play/p/3d2bYn7vBPj "> Exemplo </a>
 
-## Cap. 45- Exercícios
+## Cap. 5- Exercícios
   1. <a href="https://go.dev/play/p/bPKgf17pclP"> Resolução </a>
   2. <a href="https://go.dev/play/p/0DvNbd8Le5e"> Resolução </a>
   3. <a href="https://go.dev/play/p/uxQOxu-qEKr"> Resolução </a>
   4. <a href="https://go.dev/play/p/Hb97FvYTDbO"> Resolução </a>
   5. <a href="https://go.dev/play/p/oeRZgw97-BW"> Resolução </a>
   6. <a href="https://go.dev/play/p/rlxMivvPf_K"> Resolução </a>
+
+## Cap. 6- Fluxo de Controle
+1. Loops: inicialização, condição, pós. - <a href="https://go.dev/play/p/R9Zup1GRDV5"> Código </a>
+2. Loops: nested loop. - <a href="https://go.dev/play/p/n7lRfU5Xzu0"> Código </a>
+3. <a href=""> Código </a>
+4. <a href=""> Código </a>
+5. <a href=""> Código </a>
+6. <a href=""> Código </a>
+7. <a href=""> Código </a>
+8. <a href=""> Código </a>
+9. <a href=""> Código </a>
+10. <a href=""> Código </a>
+11. <a href=""> Código </a>
+
   
