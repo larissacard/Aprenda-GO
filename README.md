@@ -26,4 +26,5 @@
   4. Overflow. <a href="https://go.dev/play/p/t7Z4m127F2t"> Exemplo </a>
   5. Tipo string. <a href="https://go.dev/play/p/FYK94g4iAJQ"> Exemplo </a>
   6. Sistemas numéricos <a href="https://go.dev/play/p/D8nRGFTN-Jx"> Exemplo </a>
+  7. Constantes. <a href="https://go.dev/play/p/fLLD0n8FsuG"> Exemplo </a>
   
