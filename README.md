@@ -27,4 +27,6 @@
   5. Tipo string. <a href="https://go.dev/play/p/FYK94g4iAJQ"> Exemplo </a>
   6. Sistemas numéricos <a href="https://go.dev/play/p/D8nRGFTN-Jx"> Exemplo </a>
   7. Constantes. <a href="https://go.dev/play/p/fLLD0n8FsuG"> Exemplo </a>
+  8. Iota. <a href="https://go.dev/play/p/uK1L-8_4Eat"> Exemplo </a>
+  9. Deslocamento de bits. <a href="https://go.dev/play/p/3d2bYn7vBPj "> Exemplo </a>
   
