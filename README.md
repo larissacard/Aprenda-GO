@@ -48,7 +48,8 @@
 7. Condicionais: a declaração if. - <a href="https://go.dev/play/p/Azwh0JO7Y8I"> Código </a>
 8. Condicionais: if, else if, else. - <a href="https://go.dev/play/p/hSCSFWL9zyD"> Código </a>
 9. Condicionais: a declaração switch. - <a href="https://go.dev/play/p/Ew6njq9mCBI"> Código </a>
-10. <a href=""> Código </a>
-11. <a href=""> Código </a>
+10. Operadores lógicos condicionais. - <a href="https://go.dev/play/p/GH5-WfsEZ7k"> Código </a>
+
+
 
   
