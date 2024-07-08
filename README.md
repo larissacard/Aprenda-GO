@@ -39,10 +39,10 @@
   6. <a href="https://go.dev/play/p/rlxMivvPf_K"> Resolução </a>
 
 ## Cap. 6- Fluxo de Controle
-1. Loops: inicialização, condição, pós. - <a href="https://go.dev/play/p/R9Zup1GRDV5"> Código </a>
-2. Loops: nested loop. - <a href="https://go.dev/play/p/n7lRfU5Xzu0"> Código </a>
-3. <a href=""> Código </a>
-4. <a href=""> Código </a>
+1. entendendo fluxo de controle.
+2. Loops: inicialização, condição, pós. - <a href="https://go.dev/play/p/R9Zup1GRDV5"> Código </a>
+3. Loops: nested loop. - <a href="https://go.dev/play/p/n7lRfU5Xzu0"> Código </a>
+4. Loops: a declaração for <a href="https://go.dev/play/p/MGCeGgrWkyO"> Código </a>
 5. <a href=""> Código </a>
 6. <a href=""> Código </a>
 7. <a href=""> Código </a>
