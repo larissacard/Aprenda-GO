@@ -44,7 +44,7 @@
 3. Loops: nested loop. - <a href="https://go.dev/play/p/n7lRfU5Xzu0"> Código </a>
 4. Loops: a declaração for. - <a href="https://go.dev/play/p/MGCeGgrWkyO"> Código </a>
 5. Loops: break & continue. - <a href="https://go.dev/play/p/VOv-qSJlHmm"> Código </a>
-6. <a href=""> Código </a>
+6. Loops: utilizando ascii. - <a href="https://go.dev/play/p/FApqHNm2Xe7"> Código </a> 
 7. <a href=""> Código </a>
 8. <a href=""> Código </a>
 9. <a href=""> Código </a>
