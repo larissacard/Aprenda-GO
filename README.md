@@ -50,6 +50,12 @@
 9. Condicionais: a declaração switch. - <a href="https://go.dev/play/p/Ew6njq9mCBI"> Código </a>
 10. Operadores lógicos condicionais. - <a href="https://go.dev/play/p/GH5-WfsEZ7k"> Código </a>
 
-
+## Cap. 7- Exercícios
+  1. <a href="https://go.dev/play/p/PCivt-30DGH"> Resolução </a>
+  2. <a href=""> Resolução </a>
+  3. <a href=""> Resolução </a>
+  4. <a href=""> Resolução </a>
+  5. <a href=""> Resolução </a>
+  6. <a href=""> Resolução </a>
 
   
