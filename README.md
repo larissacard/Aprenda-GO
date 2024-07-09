@@ -52,10 +52,14 @@
 
 ## Cap. 7- Exercícios
   1. <a href="https://go.dev/play/p/PCivt-30DGH"> Resolução </a>
-  2. <a href=""> Resolução </a>
-  3. <a href=""> Resolução </a>
-  4. <a href=""> Resolução </a>
-  5. <a href=""> Resolução </a>
-  6. <a href=""> Resolução </a>
+  2. <a href="https://go.dev/play/p/keFdn_tGvbn"> Resolução </a>
+  3. <a href="https://go.dev/play/p/jDmLijKryiF"> Resolução </a>
+  4. <a href="https://go.dev/play/p/_JbOO-q-niO"> Resolução </a>
+  5. <a href="https://go.dev/play/p/NEGlEGQ1PuM"> Resolução </a>
+  6. <a href="https://go.dev/play/p/LI-mpfCmnh0"> Resolução </a>
+  7. <a href="https://go.dev/play/p/WJ_J4p2AxpJ"> Resolução </a>
+  8. <a href="https://go.dev/play/p/boLm9GdPT4F"> Resolução </a>
+  9. <a href="https://go.dev/play/p/DKURVske7rW"> Resolução </a>
+
 
   
