@@ -61,5 +61,16 @@
   8. <a href="https://go.dev/play/p/boLm9GdPT4F"> Resolução </a>
   9. <a href="https://go.dev/play/p/DKURVske7rW"> Resolução </a>
 
+## Cap. 8- Agrupamentos de Dados
+1. Array. - <a href="https://go.dev/play/p/ATMfg5ErSEq"> Código </a>
+2. Slice: literal composta - <a href="https://go.dev/play/p/k-eHmCyjXPf"> Código </a>
+3. Slice: for range - <a href="https://go.dev/play/p/dnzz7FHToey"> Código </a>
+4. Slice: fatiando ou deletando de uma fatia - <a href="https://go.dev/play/p/5uNks3yjT8y"> Código </a>
+5.  - <a href=""> Código </a>
+6.  - <a href=""> Código </a> 
+7.  - <a href=""> Código </a>
+8.  - <a href=""> Código </a>
+9.  - <a href=""> Código </a>
+10. - <a href=""> Código </a>
 
   
