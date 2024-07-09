@@ -67,8 +67,8 @@
 3. Slice: for range. - <a href="https://go.dev/play/p/dnzz7FHToey"> Código </a>
 4. Slice: fatiando ou deletando de uma fatia. - <a href="https://go.dev/play/p/5uNks3yjT8y"> Código </a>
 5. Slice: anexando a uma slice. - <a href="https://go.dev/play/p/piHiW0dw7_a"> Código </a>
-6.  - <a href=""> Código </a> 
-7.  - <a href=""> Código </a>
+6. Slice: make. - <a href="https://go.dev/play/p/vg7lN0bkjMJ"> Código </a> 
+7. Slice: slice multi-dimensional - <a href="https://go.dev/play/p/9Gfw_bVgUmq"> Código </a>
 8.  - <a href=""> Código </a>
 9.  - <a href=""> Código </a>
 10. - <a href=""> Código </a>
