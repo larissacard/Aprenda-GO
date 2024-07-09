@@ -70,7 +70,7 @@
 6. Slice: make. - <a href="https://go.dev/play/p/vg7lN0bkjMJ"> Código </a> 
 7. Slice: slice multi-dimensional. - <a href="https://go.dev/play/p/9Gfw_bVgUmq"> Código </a>
 8. Slice: a surpresa do array subjacente. - <a href="https://go.dev/play/p/4OJOIxUKZDg"> Código </a>
-9. Maps: introduçã. o- <a href="https://go.dev/play/p/Mx6Mv2bfO71"> Código </a>
-10. - <a href=""> Código </a>
+9. Maps: introduçã. - <a href="https://go.dev/play/p/Mx6Mv2bfO71"> Código </a>
+10. Maps: range & deletando.- <a href="https://go.dev/play/p/Vpa1MCdOirZ"> Código </a>
 
   
