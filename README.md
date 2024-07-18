@@ -73,4 +73,15 @@
 9. Maps: introduçã. - <a href="https://go.dev/play/p/Mx6Mv2bfO71"> Código </a>
 10. Maps: range & deletando.- <a href="https://go.dev/play/p/Vpa1MCdOirZ"> Código </a>
 
+## Cap. 9- Exercícios
+  1. <a href="https://go.dev/play/p/4Yh6wR_vKdY"> Resolução </a>
+  2. <a href="https://go.dev/play/p/qItrXurr2jK"> Resolução </a>
+  3. <a href="https://go.dev/play/p/0T-Q4SHFYt-"> Resolução </a>
+  4. <a href="https://go.dev/play/p/o6POihBNbTP"> Resolução </a>
+  5. <a href="https://go.dev/play/p/VdmNU6ReKyH"> Resolução </a>
+  6. <a href="https://go.dev/play/p/7iCw26GPkTj"> Resolução </a>
+  7. <a href=""> Resolução </a>
+  8. <a href=""> Resolução </a>
+  9. <a href=""> Resolução </a>
+
   
