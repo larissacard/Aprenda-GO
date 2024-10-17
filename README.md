@@ -80,8 +80,14 @@
   4. <a href="https://go.dev/play/p/o6POihBNbTP"> Resolução </a>
   5. <a href="https://go.dev/play/p/VdmNU6ReKyH"> Resolução </a>
   6. <a href="https://go.dev/play/p/7iCw26GPkTj"> Resolução </a>
-  7. <a href=""> Resolução </a>
-  8. <a href=""> Resolução </a>
-  9. <a href=""> Resolução </a>
+  7. <a href="https://go.dev/play/p/EnfZAE3AYNZ"> Resolução </a>
+  8. <a href="https://go.dev/play/p/d5Mvk17ysJ2"> Resolução </a>
+  9. <a href="https://go.dev/play/p/_sh64cIKcR4"> Resolução </a>
+  10. <a href="https://go.dev/play/p/nfIf9-l37o8"> Resolução </a>
+
+## Cap. 10- Struct
+  1. <a href="https://go.dev/play/p/PTKMvyvplj6"> Struct </a>
+  2. <a href="https://go.dev/play/p/r2kGuCDgrC4"> Struct embutidos </a>
+  3. <a href=""> Documentação </a>
 
   
