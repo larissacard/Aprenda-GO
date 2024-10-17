@@ -89,5 +89,18 @@
   1. <a href="https://go.dev/play/p/PTKMvyvplj6"> Struct </a>
   2. <a href="https://go.dev/play/p/r2kGuCDgrC4"> Struct embutidos </a>
   3. <a href=""> Documentação </a>
+  3. <a href="https://go.dev/play/p/ixR9_lbdw7e"> Structs anônimos </a>
+
+## Cap. 11- Exercícios
+  1. <a href="https://go.dev/play/p/iypvRNyN-O0"> Resolução </a>
+  2. <a href=""> Resolução </a>
+  3. <a href=""> Resolução </a>
+  4. <a href=""> Resolução </a>
+  5. <a href=""> Resolução </a>
+  6. <a href=""> Resolução </a>
+  7. <a href=""> Resolução </a>
+  8. <a href=""> Resolução </a>
+  9. <a href=""> Resolução </a>
+  10. <a href=""> Resolução </a>
 
   
