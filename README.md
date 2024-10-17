@@ -93,7 +93,7 @@
 
 ## Cap. 11- Exercícios
   1. <a href="https://go.dev/play/p/iypvRNyN-O0"> Resolução </a>
-  2. <a href=""> Resolução </a>
+  2. <a href="https://go.dev/play/p/zCh2fwABbtL"> Resolução </a>
   3. <a href=""> Resolução </a>
   4. <a href=""> Resolução </a>
   5. <a href=""> Resolução </a>
